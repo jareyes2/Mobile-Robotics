@@ -1,0 +1,23 @@
+• Task 3 – 20 points
+	o Robot can measures and prints the 3 distances to each internal goal (5 points)
+	o Robot can measures and prints the 3 distances to each external goal (5 points)
+	o Robot can measures and prints a triangulation or trilateration measure to each
+		internal goal (5 points)
+	o Robot can measures and prints a triangulation or trilateration measure to each
+		external goal (5 points)
+	o Robot provides correct relative goal distances within the correct grid cell (-1 point
+		for each incorrect goal distance)
+	o Robot provides correct triangulation or trilateration coordinates within the correct
+		grid cell (-3 points)
+• Task 4 – 20 points
+	o Robot can do motion-to-goal and wall-following with 1 obstacle and internal goal
+		(5 points)
+	o Robot can do motion-to-goal and wall-following with 2 obstacles and internal
+		goal (5 points)
+	o Robot can do motion-to-goal and wall-following with 1 obstacle and one of the
+		external goals (5 points)
+	o Robot can do motion-to-goal and wall-following with 2 obstacles and one of the
+		external goals (5 points)
+	o Robot hits obstacle (-3 points each time)
+	o Robot fails to switch back to motion-to-goal (-4 points each time)
+	o Full task is not completed under 2 minutes (-5 points)
